@@ -1,0 +1,6 @@
+Window_close 0:0
+Fullscreen_toggle 5:89
+Move_left 5:71
+Move_right 5:72
+Move_down 5:74
+rotate 5:57
